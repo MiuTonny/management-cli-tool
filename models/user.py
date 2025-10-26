@@ -16,7 +16,7 @@ class Person:
     """Base entity with a name."""
 
     def __init__(self, name: str):
-        self.name = name  # keep public & simple
+        self.name = name  
 
     def __str__(self) -> str:
         return f"Person(name='{self.name}')"
