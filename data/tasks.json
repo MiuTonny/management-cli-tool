@@ -2,6 +2,13 @@
     {
         "id": 1,
         "title": "Add argparse commands",
+        "status": true,
+        "assigned_to_name": "Carlos",
+        "project_title": "CLI Tool"
+    },
+    {
+        "id": 2,
+        "title": "Add argparse commands",
         "status": false,
         "assigned_to_name": "Carlos",
         "project_title": "CLI Tool"

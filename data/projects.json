@@ -4,6 +4,14 @@
         "title": "CLI Tool",
         "description": "Management CLI project",
         "due_date": "2025-11-15",
+        "status": true,
+        "owner_name": "Carlos"
+    },
+    {
+        "id": 2,
+        "title": "CLI Tool",
+        "description": "School project",
+        "due_date": "2025-11-15",
         "status": false,
         "owner_name": "Carlos"
     }
